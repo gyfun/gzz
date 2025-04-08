@@ -1,2 +1,2 @@
-# gzz.github.io
+# gzz
 个人网站托管
